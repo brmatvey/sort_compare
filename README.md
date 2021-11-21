@@ -19,5 +19,5 @@ To work requires SFML (tested on Ubuntu with SFML from the repository);
 To work in the build directory, transfer the file "Gidole-Regular.ttf";
 
 Will be added:
-Real-time graphing and visualization of sorting (SFML or Qt maybe);
+Real-time graphing and visualization of sorting;
 Profiling other algorithms;
